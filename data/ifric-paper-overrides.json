@@ -1,0 +1,219 @@
+{
+  "Demand Deposits with Restrictions on Use arising from a Contract with a Third Party (IAS 7)": {
+    "titles": ["Demand Deposits with Restrictions on Use (IAS 7)"],
+    "source": "https://www.ifrs.org/news-and-events/updates/ifric/2021/ifric-update-september-2021/#1"
+  },
+  "Negative Low Emissions Vehicle Credits (IAS 37)": {
+    "titles": ["Negative Low Emission Vehicle Credits (IAS 37)"],
+    "source": "https://www.ifrs.org/news-and-events/calendar/2022/june/ifrs-interpretations-committee/"
+  },
+  "Customer's right to receive access to the supplier's software hosted on the cloud (IAS 38)": {
+    "titles": ["Customer's Right to Access the Supplier's Software Hosted on the Cloud (IAS 38)", "Cloud Computing Arrangements (IAS 38)"],
+    "source": "https://www.ifrs.org/news-and-events/updates/ifric/2018/ifric-update-september-2018/"
+  },
+  "Translation of a Hyperinflationary Foreign Operation: Presenting Exchange Differences (IAS 21 and IAS 29)": {
+    "papers": [{"date": "2019-09-17", "title": "Translation of a Hyperinflationary Foreign Operation (IAS 21 and IAS 29)", "ap": ["AP4A"]}]
+  },
+  "Tax arising from payments on participating equity instruments (IAS 33)": {
+    "usePublicationMonth": true,
+    "titles": ["Basic Earnings per Share and Participating Equity Instruments (IAS 33)"],
+    "source": "https://www.ifrs.org/news-and-events/updates/ifric/2017/ifric-update-june-2017/"
+  },
+  "Tax arising from payments on participating equity instruments [Illustrative example] (IAS 33)": {
+    "titles": ["Tax Arising from Payments on Participating Equity Instruments (IAS 33)", "Basic Earnings per Share and Participating Equity Instruments (IAS 33)"],
+    "source": "https://www.ifrs.org/projects/completed-projects/2017/ias-33-tax-arising-from-payments-on-participating-equity-instruments/"
+  },
+  "Investment entities and subsidiaries (IFRS 10)": {"titles": ["Investment Entities (IFRS 10)"]},
+  "Fund manager's assessment of significant influence (IAS 28)": {"titles": ["Fund Manager's Significant Influence over a Fund (IAS 28)"]},
+  "Deferred taxes when acquiring a single asset entity that is not a business (IAS 12)": {
+    "titles": ["Initial Recognition Exception and Single-asset Entities (IAS 12)", "Recognition of Deferred Taxes when Acquiring a Single-asset Entity (IAS 12)"]
+  },
+  "Commodity loans": {
+    "titles": ["Commodities (IAS 2)"],
+    "source": "https://www.ifrs.org/content/dam/ifrs/news/updates/ifrs-ic/2017/ifric-update-march-2017.pdf"
+  },
+  "Written put options over non-controlling interests to be settled by a variable number of the parent's shares (IAS 32)": {
+    "titles": ["Accounting for Written Puts over Non-controlling Interests to be Settled by the Variable Number of Parent's Shares (IAS 32)"]
+  },
+  "Expected manner of recovery of intangible assets with indefinite useful lives (IAS 12)": {
+    "titles": ["Expected Manner of Recovery of Indefinite Life Intangible Assets when Measuring Deferred Tax (IAS 12)"]
+  },
+  "Repayable cash receipts (IAS 20)": {"titles": ["Accounting for Repayable Cash Payments (IAS 20)", "Accounting for Recoverable Cash Payments (IAS 20)"]},
+  "Considering recognised liabilities in determining recoverable amount and carrying amount of a cash-generating unit (IAS 36)": {
+    "titles": ["Recoverable Amount and Carrying Amount of a Cash-generating Unit (IAS 36)"]
+  },
+  "Determining hedge effectiveness for net investment hedges (IFRS 9)": {
+    "titles": ["Net Investment Hedges (IFRS 9)"],
+    "usePublicationMonth": true,
+    "source": "https://www.ifrs.org/content/dam/ifrs/news/updates/ifrs-ic/2016/ifric-update-march-2016.pdf"
+  },
+  "Offsetting and cash-pooling arrangements (IAS 32)": {"titles": ["Offsetting and Cash Pooling (IAS 32)"]},
+  "Transition issues relating to hedging (IFRS 9)": {"titles": ["Transition for Hedge Accounting (IFRS 9)"]},
+  "Separation of an embedded floor from a floating rate host contract (IAS 39)": {
+    "titles": ["Separation of an Embedded Floor from a Floating Rate Host Contract in a Negative Interest Rate Environment (IAS 39)"]
+  },
+  "To what extent can an impairment loss be allocated to non-current assets within a disposal group (IFRS 5)": {
+    "papers": [
+      {"date": "2015-05-12", "title": "IFRS 5 Non-current Assets Held for Sales and Discontinued Operations", "ap": ["AP3D"]},
+      {"date": "2015-09-08", "title": "IFRS 5 Non-current Assets Held for Sale", "ap": ["AP2B"]},
+      {"date": "2016-01-12", "title": "IFRS 5 Non-current Assets Held for Sale and Discontinued Operations", "ap": ["AP7A"]}
+    ]
+  },
+  "Intragroup transactions (IFRS 5)": {
+    "papers": [
+      {"date": "2015-05-12", "title": "IFRS 5 Non-current Assets Held for Sales and Discontinued Operations", "ap": ["AP3B"]},
+      {"date": "2015-09-08", "title": "IFRS 5 Non-current Assets Held for Sale", "ap": ["AP2C"]},
+      {"date": "2016-01-12", "title": "IFRS 5 Non-current Assets Held for Sale and Discontinued Operations", "ap": ["AP7B"]}
+    ]
+  },
+  "Scope, measurement and presentation issues (IFRS 5)": {
+    "papers": [
+      {"date": "2015-09-08", "title": "IFRS 5 Non-current Assets Held for Sale", "ap": ["AP2D"]},
+      {"date": "2016-01-12", "title": "IFRS 5 Non-current Assets Held for Sale and Discontinued Operations", "ap": ["AP7C"]}
+    ]
+  },
+  "Prepayments in long-term supply contracts (IAS 2)": {"titles": ["Long-term Prepayments in Supply Contracts (IAS 2)"]},
+  "Continuation of a minimum funding requirement (IFRIC 14 and IAS 19)": {
+    "titles": ["Minimum Funding Requirement for Contributions Relating to Future Service (IFRIC 14)", "Should an Entity Assume Continuation of a Minimum Funding Requirement for Contributions Relating to Future Service? (IFRIC 14)"]
+  },
+  "Single-asset, single-lessee lease vehicles (IFRS 10)": {
+    "titles": ["Single Lessee; Single Asset (IFRS 10)", "Control of a Structured Entity Involving a Single Lessee and a Single Asset (IFRS 10)"]
+  },
+  "Measurement of longevity swaps (IAS 19)": {
+    "titles": ["Should Longevity Swaps Held under a Defined Benefit Plan be Measured at Fair Value as Part of Plan Assets or on another Basis as a Qualifying Insurance Policy? (IAS 19)"]
+  },
+  "Recognition of revenue by a joint operator (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Joint operator's share of output purchased differs from its share of ownership interest (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Joint arrangements with similar features that are classified differently (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Classification of joint arrangements: application of 'other facts and circumstances' (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Classification of joint arrangements: the assessment of 'other facts and circumstances' (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Accounting by the joint operator in its separate financial statements (IFRS 11 and IAS 27)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Accounting by the joint operation that is a separate vehicle in its financial statements (IFRS 11)": {"titles": ["IFRS 11 Classification of Joint Arrangements"]},
+  "Applicable tax rate for the measurement of deferred tax relating to an investment in an associate (IAS 12)": {
+    "titles": ["Selection of applicable tax rate for measurement of deferred tax relating to investment in associate (IAS 12)"]
+  },
+  "The fair value hierarchy when third-party consensus prices are used (IFRS 13)": {
+    "titles": ["Fair Value Hierarchy when Third-party Consensus Prices are Used (IFRS 13)"]
+  },
+  "Presentation of income and expenses arising on financial instruments with a negative yield (IAS 39 and IAS 1)": {
+    "titles": ["Negative Interest Rates (IAS 39)"]
+  },
+  "Levies raised on production of property, plant and equipment IFRIC 21 and IAS 37)": {
+    "titles": ["Levies Raised on Production Property, Plant and Equipment (IFRIC 21)", "Levies Raised on Production, Property, Plant and Equipment (IFRIC 21)"]
+  },
+  "Disclosures for a subsidiary with a material non-controlling interest (IFRS 12)": {
+    "titles": ["Disclosures for a Subsidiary with a Material Non-controlling Interest and for a Material Joint Venture or Associate (IFRS 12)"]
+  },
+  "Disclosure of summarised financial information about material joint ventures or associates (IFRS 12)": {
+    "titles": ["Disclosures for a Subsidiary with a Material Non-controlling Interest and for a Material Joint Venture or Associate (IFRS 12)"]
+  },
+  "Accounting for embedded foreign currency derivatives in host contracts (IAS 39)": {"titles": ["Foreign Currency Embedded Derivatives (IAS 39)"]},
+  "Difference between institutional offer price and retail offer price in an initial public offering (IFRS 2)": {
+    "titles": ["Price Difference Between the Institutional Offer Price and the Retail Offer Price for Shares in an Initial Public Offering (IFRS 2)"]
+  },
+  "Presentation requirements (IAS 1)": {"titles": ["Issues related to the application of IAS 1"]},
+  "Disclosure of carrying amounts under the cost model (IAS 16 and IAS 23)": {
+    "titles": ["Disclosure of Carrying Amount Information for Assets Stated at Revalued Amounts (IAS 16)"]
+  },
+  "Investment Entities Amendments: the definition of investment-related services or activities (IFRS 10)": {
+    "papers": [{"date": "2014-03-25", "title": "Investment Entities Amendments (IFRS 10)", "ap": ["AP10"]}],
+    "source": "https://media.ifrs.org/2014/IFRIC/March/IFRIC-Update-March-2014.html"
+  },
+  "Identification of acquirer and parent in stapling arrangements (IFRS 3 and IFRS 10)": {
+    "titles": ["Identification of the Acquirer in Accordance with IFRS 3 and the Parent in Accordance with IFRS 10 in a Stapling Arrangement"]
+  },
+  "Mandatorily convertible financial instruments (IAS 32)": {
+    "papers": [
+      {"decisionMonth": "2014-01", "date": "2014-01-29", "title": "Classification of a Financial Instrument that is Mandatorily Convertible into a Variable Number of Shares upon a Contingent Non-viability Event (IAS 32)", "ap": ["AP9", "AP9A"]},
+      {"decisionMonth": "2014-05", "date": "2014-01-29", "title": "Classification of a Financial Instrument that is Mandatorily Convertible into a Variable Number of Shares Subject to a Cap and a Floor (IAS 32)", "ap": ["AP15"]},
+      {"decisionMonth": "2014-05", "date": "2014-05-13", "title": "Accounting for a Financial Instrument that is Mandatorily Convertible into a Variable Number of Shares Subject to a Cap and a Floor (IAS 32)", "ap": ["AP10"]}
+    ]
+  },
+  "Early settlement option on a mandatorily convertible financial instrument (IAS 32)": {
+    "titles": ["A Financial Instrument that is Mandatorily Convertible into a Variable Number of Shares (Subject to a Cap and a Floor) but Gives the Issuer the Option to Settle by Delivering the Maximum (Fixed) Number of Shares (IAS 32)", "Classification of Mandatorily Convertible Instruments with an Issuer Option to Convert into the Maximum Fixed Number of Shares (IAS 32)"]
+  },
+  "A levy that is subject to a pro rate activity threshold as well as an annual threshold (IFRIC 21 and IAS 37)": {
+    "titles": ["Identification of a Present Obligation to Pay a Levy that is Subject to a Pro-rata Activity Threshold as well as an Annual Activity Threshold (IFRIC 21)"]
+  },
+  "Concept of financial capital maintenance defined in terms of constant purchasing power units (IAS 29)": {
+    "titles": ["Applicability of the Concept of Financial Capital Maintenance Defined in constant Purchasing Power Units (IAS 29)"]
+  },
+  "Transition: impairment, foreign exchange and borrowing costs (IFRS 10 and IFRS 11)": {"titles": ["Impairment, Foreign Exchange and Borrowing Costs (IFRS 10 and IFRS 11)"]},
+  "Financial instruments that give the issuer the contractual right to choose the form of settlement (IAS 32)": {
+    "titles": ["Classification of Financial Instruments that Give the Issuer the Contractual Right to Choose the Form of Settlement (IAS 32)"]
+  },
+  "Identification of cash equivalents: financial assets (IAS 7)": {"titles": ["Identification of Cash Equivalents (IAS 7)"]},
+  "Classification in a planned but not yet approved IPO (IFRS 5)": {
+    "titles": ["Classification in Conjunction with a Planned IPO but Where the Prospectus has not been Approved by the Securities Regulator (IFRS 5)"]
+  },
+  "Non-cash acquisition of a non-controlling interest by a controlling shareholder (IAS 27)": {"titles": ["Non-cash acquisition of non-controlling interest (IAS 27)"]},
+  "Effective interest rate on initial recognition of new Greek government bonds (IAS 39)": {"titles": ["Determining the effective interest rate of restructured Greek government bonds (IAS 39)"]},
+  "Reverse acquisitions that do not constitute a business (IFRS 3)": {"titles": ["Accounting for Reverse Acquisition Transactions where the Acquiree is not a Business (IFRS 3)"]},
+  "Derecognition of financial instruments upon modification (IAS 39)": {
+    "papers": [{"date": "2012-05-15", "title": "Derecognition of financial assets (IAS 39)", "ap": ["AP10A", "AP10B"]}]
+  },
+  "Contribution based promises: impact of the 2011 amendments (IAS 19)": {
+    "papers": [{"date": "2012-09-18", "title": "Accounting for contribution based promises (IAS 19)", "ap": ["AP5C"]}]
+  },
+  "Applying the definition of termination benefits to Altersteilzeit plans (IAS 19)": {"titles": ["Definition of termination benefits (IAS 19)"]},
+  "Presentation of payments on non-income taxes (IAS 1 and IAS 12)": {"titles": ["Presentation of payments of non-income taxes (IAS 1 and IAS 12)"]},
+  "Market value uplifts introduced in a new income tax regime (IAS 12)": {"titles": ["Accounting for market value uplifts on assets that are to be introduced by a new tax regime (IAS 12)"]},
+  "Rebuttable presumption: manner of recovery of investment property (IAS 12)": {"titles": ["Rebuttable presumption to determine the manner of recovery (IAS 12)"]},
+  "Newly formed entities: factors affecting the identification of the acquirer (IFRS 3)": {"titles": ["Factors affecting the identification of the acquirer (IFRS 3)"]},
+  "Newly formed entities: business combinations under common control (IFRS 3)": {"titles": ["Business combinations under common control (IFRS 3)"]},
+  "Group reorganisation in separate financial statements (IAS 27)": {"titles": ["Group reorganisations in separate financial statements (IAS 27)"]},
+  "Sales proceeds from testing an asset (IAS 16)": {"titles": ["Cost of testing (IAS 16)"]},
+  "Application of the hierarchy (IAS 8)": {"titles": ["Hierarchy of Guidance to Select an Accounting Policy (IAS 8)"]},
+  "Repayments of investments and foreign currency translation reserve (IAS 21)": {"titles": ["Repayment of Investment/CTA (IAS 21)"]},
+  "Amortisation method: intangible assets with a finite useful life (IAS 38)": {"titles": ["Amortisation method (IAS 38)"]},
+  "Statutory employee profit sharing arrangements (IAS 19)": {"titles": ["Accounting for statutory employee profit-sharing arrangements (IAS 19)"]},
+  "Calculation of value in use: dividend discount models (IAS 36)": {"titles": ["Calculation of value in use (IAS 36)"]},
+  "Interaction of transition requirements in IFRS 8 and IAS 36 (IFRS 8 and IAS 36)": {"titles": ["Interaction with transition requirements of IFRS 8 Operating Segments (IAS 36)"]},
+  "Functional currency of an investment holding company (IAS 21)": {"titles": ["Determining the functional currency of an investment holding company (IAS 21)"]},
+  "Transactions in which the manner of settlement is contingent on future events (IFRS 2)": {
+    "titles": ["Share-based payment transactions in which the manner of settlement is contingent on future events (IFRS 2)", "Classification of share-based payments where manner of settlement is contingent on future events (IFRS 2)"]
+  },
+  "Scope issue for real estate investment trusts (IFRS 4)": {"titles": ["Scope issue for investments in REITs (IFRS 4 and IAS 32)"]},
+  "Application of the 'fixed-for-fixed' condition (IAS 32)": {"titles": ["Fixed for fixed condition (IAS 32)"]},
+  "Transaction costs for non-controlling interests (IAS 27)": {"titles": ["Transaction costs for non-controlling interest (IAS 27)"]},
+  "Interim fair value disclosures (IAS 34)": {"titles": ["Interim disclosures of fair value (IAS 34)"]},
+  "Earlier application of revised IFRS 3 (IFRS 3)": {"titles": ["Earlier application of IFRS 3 (IFRS3 and IAS27)"]},
+  "Acquisition related costs (IFRS 3)": {
+    "titles": ["Acquisition-related costs in a business combination (IFRS 3R)", "Acquisition-related costs in a business combination (IFRS3 and IAS27)"]
+  },
+  "Compliance cost for the registration, evaluation, authorisation and restriction of chemicals (IAS 38)": {
+    "titles": ["Compliance costs for REACH (IAS 38)", "Requirements of the European regulation concerning REACH"]
+  },
+  "Identification of cash equivalents: investments in shares or units of money market funds redeemable at any time (IAS 7)": {
+    "titles": ["Determination of cash equivalents (IAS 7)"]
+  },
+  "Issues arising from IFRS 3 (2008), IAS 27 (2008), and IAS 28 (IFRS 3, IAS 27 and IAS 28)": {
+    "titles": ["Potential effect of IFRS 3 and IAS 27 on equity method accounting (IAS 28)", "Potential effect of IFRS 3 (as revised in 2008) and IAS 27 (as amended in 2008) on equity method accounting (IAS 28)"]
+  },
+  "Derecognition: groups of financial assets and transfers of financial assets (IAS 39)": {
+    "papers": [{"date": "2009-03-05", "title": "Derecognition of financial assets (IAS 39)", "ap": ["AP4E"]}]
+  },
+  "Transaction costs (IAS 32)": {"titles": ["Transaction costs deducted from equity (IAS 32)"]},
+  "Effective interest rate method when cash flows are linked to inflation (IAS 39)": {
+    "titles": ["Applying the effective interest rate method (IAS 39)", "Application of the effective interest rate method (IAS 29 andn IAS 39)"]
+  },
+  "Classification of expenditures not recognised as assets (IAS 7)": {"titles": ["Classification of expenditures (IAS 7)"]},
+  "Definition of plan assets: investment or insurance policies (IAS 19)": {"titles": ["Definition of plan assets (IAS 19)"]},
+  "Gaming transactions: wagers received (IAS 39)": {"titles": ["Gaming transactions (IAS 39)"]},
+  "Deferred tax arising from unremitted foreign earnings (IAS 12)": {"titles": ["Deferred tax arising from unremitted overseas earnings (IAS 12)"]},
+  "Written options in a retail energy contracts (IAS 39)": {"titles": ["Written options in retail energy contracts (IAS 39)"]},
+  "Hedge effectiveness of an interest rate swap in a cash flow hedge (IAS 39)": {"titles": ["Assessing hedge effectiveness of an interest rate swap in a cash flow hedge (IAS 39)"]},
+  "Short trading (IAS 39)": {
+    "titles": ["Accounting for short sales of financial assets (IAS 39)"],
+    "source": "https://www.ifrs.org/content/dam/ifrs/news/updates/ifrs-ic/2007/january-2007-ifric-update.pdf"
+  },
+  "Contractual obligations and economic compulsion in the classification of financial instruments (IAS 32)": {
+    "titles": ["Classification of a financial instrument as liability or equity (IAS 32)"],
+    "source": "https://www.ifrs.org/content/dam/ifrs/meetings/2006/november/ifric/classification-of-a-financial-instrument-as-liability-or-equity-ias-32/ap7xi-review-of-tentative-agenda-decisions.pdf"
+  },
+  "Contingent consideration: puts or forwards received by minority (non-controlling) interests (IFRS 3)": {
+    "papers": [{"date": "2006-11-01", "title": "Puts and forwards held by minority interests and IFRS 3 Business Combinations (IAS 32)", "ap": ["AP7"]}],
+    "source": "https://www.ifrs.org/content/dam/ifrs/meetings/2006/november/ifric/ifric-meeting-agenda-november-2006.pdf"
+  },
+  "Puts and forwards held by minority (non-controlling) interests (IAS 32)": {"titles": ["Puts and forwards held by minority interests and IFRS 3 Business Combinations (IAS 32)"]}
+}

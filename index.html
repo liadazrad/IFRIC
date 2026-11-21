@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IFRS Monitor | החלטות ודיונים</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="page-shell masthead-inner">
+      <button type="button" class="brand" data-open-tab="home" aria-label="IFRS Monitor, דף הבית">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span dir="ltr">IFRS <span class="brand-suffix">Monitor</span></span>
+      </button>
+      <nav class="tabs-bar" aria-label="ניווט ראשי">
+        <button class="tab-button is-active" type="button" data-tab="home" aria-current="page">מה חדש</button>
+        <button class="tab-button" type="button" data-tab="topics">על הפרק</button>
+        <button class="tab-button" type="button" data-tab="finals">החלטות סופיות</button>
+      </nav>
+      <a class="masthead-source" href="#official-sources">מקורות רשמיים</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-heading">
+      <div class="page-shell heading-inner">
+        <div class="heading-copy">
+          <p class="heading-kicker" dir="ltr">IFRIC / IASB</p>
+          <h1 id="page-title">מעקב אחר החלטות ודיוני IFRS</h1>
+          <p id="page-description">סדרי יום, עבודת התקינה והחלטות הוועדה, עם תקצירים בעברית.</p>
+        </div>
+        <aside class="status-card" id="status-card" aria-live="polite">
+          <p class="status-label" id="status-label">תמונת מצב</p>
+          <div class="status-stat"><strong id="status-count">0</strong><span id="status-value">פריטים במעקב</span></div>
+          <p class="status-note" id="status-note">טוען נתונים...</p>
+        </aside>
+      </div>
+    </section>
+    <div class="page-shell workspace">
+    <section class="tab-panel" data-tab-panel="home">
+      <section class="toolbar toolbar-search" aria-label="חיפוש וסינון">
+        <label class="search-box">
+          <span>חיפוש בכל האתר</span>
+          <input id="global-search" type="search" placeholder="שם נושא, תקן, מספר נייר עבודה או מונח חשבונאי">
+        </label>
+        <label class="filter-box">
+          <span>תקן חשבונאי</span>
+          <select id="home-standard"></select>
+        </label>
+        <button id="home-clear" type="button" class="ghost-button reset-button">נקה סינון</button>
+      </section>
+
+      <div class="overview-layout" id="home-layout">
+        <div class="overview-agenda">
+          <section class="results-header">
+            <div>
+              <h2 id="home-latest-title">לקראת הדיון הבא</h2>
+              <p id="home-summary">טוען נתונים...</p>
+            </div>
+            <button type="button" class="ghost-button section-action" data-open-tab="topics">כל הנושאים על הפרק</button>
+          </section>
+          <section id="home-highlights" class="results-grid" aria-labelledby="home-latest-title" aria-live="polite"></section>
+        </div>
+        <aside class="activity" id="home-activity" aria-labelledby="activity-title">
+          <div class="activity-header">
+            <h2 id="activity-title">עדכונים אחרונים</h2>
+            <p id="home-updates-summary">טוען נתונים...</p>
+          </div>
+          <div id="home-updates" class="results-grid compact-feed" aria-live="polite"></div>
+          <div class="activity-footer">
+            <button type="button" id="home-more-updates" class="ghost-button section-action" aria-controls="home-updates" aria-expanded="false">עוד עדכונים</button>
+          </div>
+        </aside>
+        <div class="overview-decisions">
+          <section class="results-header">
+            <div>
+              <h2 id="home-final-title">החלטות אחרונות</h2>
+              <p id="home-pending-summary">טוען נתונים...</p>
+            </div>
+            <button type="button" class="ghost-button section-action" data-open-tab="finals">לכל ההחלטות</button>
+          </section>
+          <section id="home-pending" class="results-grid" aria-labelledby="home-final-title" aria-live="polite"></section>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" data-tab-panel="finals" hidden>
+      <section class="browser-shell">
+        <section class="toolbar toolbar-search">
+          <label class="search-box">
+            <span>חיפוש בהחלטות סופיות</span>
+            <input id="finals-search" type="search" placeholder="חפש לפי כותרת, תקן, תרגום או טקסט מתוך ההחלטה">
+          </label>
+          <label class="filter-box">
+            <span>תקן חשבונאי</span>
+            <select id="finals-standard"></select>
+          </label>
+          <button id="finals-clear" type="button" class="ghost-button reset-button">נקה סינון</button>
+        </section>
+
+        <section class="results-header">
+          <div>
+            <h2>כל ההחלטות</h2>
+            <p id="finals-summary">טוען נתונים...</p>
+          </div>
+        </section>
+
+        <section id="finals-grid" class="results-grid" aria-live="polite"></section>
+      </section>
+    </section>
+
+    <section class="tab-panel" data-tab-panel="topics" hidden>
+      <section class="browser-shell">
+        <section class="toolbar toolbar-wide">
+          <label class="search-box">
+            <span>חיפוש בכל הנושאים</span>
+            <input id="topics-search" type="search" placeholder="חפש לפי נושא, סטטוס, תקן, AP או סיכום">
+          </label>
+          <label class="filter-box">
+            <span>תקן חשבונאי</span>
+            <select id="topics-standard"></select>
+          </label>
+          <label class="filter-box">
+            <span>גוף</span>
+            <select id="topics-group"></select>
+          </label>
+          <label class="filter-box">
+            <span>שלב</span>
+            <select id="topics-status"></select>
+          </label>
+          <button id="topics-clear" type="button" class="ghost-button reset-button">נקה סינון</button>
+        </section>
+
+        <section class="results-header">
+          <div>
+            <h2 id="topics-meetings-title">סדרי יום של פגישות</h2>
+            <p id="topics-summary">טוען נתונים...</p>
+          </div>
+          <p id="topics-meeting-summary"></p>
+        </section>
+
+        <section id="topics-meetings" class="results-grid" aria-labelledby="topics-meetings-title" aria-live="polite"></section>
+        <section class="results-header home-subsection">
+          <h2>תוכנית העבודה</h2>
+          <p id="topics-project-summary"></p>
+        </section>
+        <section id="topics-grid" class="results-grid" aria-live="polite"></section>
+      </section>
+    </section>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="official-sources">
+    <div class="page-shell footer-inner">
+      <h2>מקורות רשמיים</h2>
+      <div class="source-links">
+        <a href="https://www.ifrs.org/groups/ifrs-interpretations-committee/" target="_blank" rel="noreferrer">ועדת IFRIC</a>
+        <a href="https://www.ifrs.org/projects/work-plan/#ifrs-accounting-projects" target="_blank" rel="noreferrer">תוכנית העבודה</a>
+        <a href="https://www.ifrs.org/supporting-implementation/how-we-help-support-consistent-application/#agenda-decisions" target="_blank" rel="noreferrer">ארכיון החלטות IFRIC</a>
+        <a href="https://www.ifrs.org/news-and-events/updates/ifric/" target="_blank" rel="noreferrer">ארכיון IFRIC Update</a>
+      </div>
+    </div>
+  </footer>
+
+  <dialog id="item-modal" class="item-modal" aria-labelledby="modal-title">
+    <form method="dialog" class="modal-shell">
+      <button class="modal-close" type="submit" aria-label="סגור">×</button>
+      <div class="modal-head">
+        <div class="modal-meta" id="modal-meta"></div>
+        <h2 id="modal-title">פריט</h2>
+        <p id="modal-subtitle" class="modal-subtitle"></p>
+      </div>
+
+      <section class="modal-section">
+        <h3>סיכום</h3>
+        <p id="modal-summary"></p>
+      </section>
+
+      <section class="modal-section" id="modal-proposal-section" hidden>
+        <h3>הצעת עדכון לתקציר בעקבות שינוי במקור</h3>
+        <p id="modal-proposal"></p>
+      </section>
+
+      <section class="modal-section" id="modal-staff-section">
+        <h3>עמדת צוות</h3>
+        <p id="modal-staff-view"></p>
+      </section>
+
+      <section class="modal-section" id="modal-committee-section">
+        <h3>עמדת הוועדה</h3>
+        <p id="modal-committee-view"></p>
+      </section>
+
+      <section class="modal-section">
+        <h3>קישורים</h3>
+        <div id="modal-links" class="modal-links"></div>
+      </section>
+
+      <section class="modal-section">
+        <div class="modal-section-head">
+          <h3 id="modal-related-heading" tabindex="-1">מסמכים קשורים</h3>
+          <button id="modal-reviewed" class="ghost-button" type="button">סמן כנבדק</button>
+        </div>
+        <div id="modal-related" class="related-list"></div>
+      </section>
+    </form>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-06-09",
+  "items": [
+    {
+      "id": "chg-2026-06-09-ap2-mdpm-hypothetical",
+      "itemId": "ifric-2026-06-ap2-mdpm-hypothetical-income-expenses",
+      "changeType": "נושא חדש",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Management-defined Performance Measures - Hypothetical Income and Expenses",
+      "topicTitleHe": "מדדי ביצוע שההנהלה מגדירה - הכנסות והוצאות היפותטיות",
+      "status": "בחינה ראשונית",
+      "needsReview": false,
+      "changeNoteHe": "נושא חדש נוסף לפגישת יוני 2026."
+    },
+    {
+      "id": "chg-2026-06-09-ap3-mdpm-public",
+      "itemId": "ifric-2026-06-ap3-mdpm-public-communications",
+      "changeType": "נושא חדש",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Management-defined Performance Measures - Public Communications",
+      "topicTitleHe": "מדדי ביצוע שההנהלה מגדירה - פרסומים לציבור",
+      "status": "בחינה ראשונית",
+      "needsReview": false,
+      "changeNoteHe": "נושא חדש נוסף לפגישת יוני 2026."
+    },
+    {
+      "id": "chg-2026-06-09-ap6-manufacturer-lessor",
+      "itemId": "ifric-2026-06-ap6-manufacturer-lessor",
+      "changeType": "נושא חדש",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Assessment of Specified Main Business Activities for a Manufacturer-Lessor",
+      "topicTitleHe": "בחינת פעילות עסקית עיקרית מוגדרת אצל יצרן-מחכיר",
+      "status": "ממתין לפרסום נייר",
+      "needsReview": false,
+      "changeNoteHe": "הנושא כבר פורסם לסדר היום של יוני 2026, אך הקובץ עצמו עדיין לא עלה."
+    },
+    {
+      "id": "chg-2026-06-09-ap7-labels-subtotals-expenses",
+      "itemId": "ifric-2026-06-ap7-labels-subtotals-expenses",
+      "changeType": "נושא חדש",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Labels of Subtotals and Matters relating to the Presentation of Expenses",
+      "topicTitleHe": "כותרות של סכומי ביניים וסוגיות בהצגת הוצאות",
+      "status": "ממתין לפרסום נייר",
+      "needsReview": false,
+      "changeNoteHe": "הנושא כבר פורסם לסדר היום של יוני 2026, אך הקובץ עצמו עדיין לא עלה."
+    },
+    {
+      "id": "chg-2026-06-09-ap4-ifrs18-updated",
+      "itemId": "ifric-2026-06-ap4-specified-main-business-activity",
+      "changeType": "נוסף נייר עבודה",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Entities with a Specified Main Business Activity",
+      "topicTitleHe": "ישויות עם פעילות עסקית עיקרית מוגדרת",
+      "status": "עודכן",
+      "needsReview": false,
+      "changeNoteHe": "נוספו AP4A ו־AP4B והנושא קיבל סט מסמכים מורחב לפגישת יוני 2026."
+    },
+    {
+      "id": "chg-2026-06-09-single-investor-fund",
+      "itemId": "ifric-2026-06-ap5-single-investor-fund",
+      "changeType": "סטטוס שהשתנה",
+      "changedAt": "2026-06-09",
+      "standard": "IFRS 10",
+      "topicTitleEn": "Control Assessment for a Single-investor Fund",
+      "topicTitleHe": "בחינת שליטה בקרן בעלת משקיע יחיד",
+      "status": "בטיפול המועצה",
+      "needsReview": true,
+      "changeNoteHe": "הנושא עבר מדיון ראשוני לדיון המשך בפגישת יוני 2026."
+    },
+    {
+      "id": "chg-2026-04-01-fair-presentation-final",
+      "itemId": "ifric-2025-11-ap3-fair-presentation",
+      "changeType": "החלטת סדר יום סופית חדשה",
+      "changedAt": "2026-04-01",
+      "standard": "IAS 1",
+      "topicTitleEn": "Fair Presentation and Compliance with IFRS Accounting Standards",
+      "topicTitleHe": "הצגה נאותה וציות לתקני IFRS",
+      "status": "החלטת סדר יום סופית",
+      "needsReview": true,
+      "changeNoteHe": "מה־IFRIC Update עולה שההחלטה פורסמה, אך קישור ההחלטה עצמה עדיין מסומן לבדיקה ידנית."
+    },
+    {
+      "id": "chg-2026-03-11-fx-difference",
+      "itemId": "ifric-2025-09-ap2-fx-difference-intragroup-liability",
+      "changeType": "סטטוס שהשתנה",
+      "changedAt": "2026-03-11",
+      "standard": "IFRS 18",
+      "topicTitleEn": "Classification of a Foreign Exchange Difference from an Intragroup Monetary Liability (or Asset)",
+      "topicTitleHe": "סיווג הפרש שער על פריט מוניטרי תוך־קבוצתי",
+      "status": "החלטת סדר יום סופית",
+      "needsReview": true,
+      "changeNoteHe": "הנושא התקדם לניסוח סופי, אך עדיין נדרש אימות ידני של קישור ה־PDF הסופי."
+    },
+    {
+      "id": "chg-2026-03-11-reassessment-control",
+      "itemId": "ifric-2026-03-ap5-reassessment-control",
+      "changeType": "החלטת סדר יום מוצעת חדשה",
+      "changedAt": "2026-03-11",
+      "standard": "IFRS 10",
+      "topicTitleEn": "Reassessment of Control",
+      "topicTitleHe": "הערכה מחדש של שליטה",
+      "status": "החלטת סדר יום מוצעת",
+      "needsReview": false,
+      "changeNoteHe": "פורסמה החלטת סדר יום מוצעת בעקבות הדיון במרץ 2026."
+    },
+    {
+      "id": "chg-2026-02-02-embedded-prepayment-final",
+      "itemId": "ifric-2025-11-ap4-embedded-prepayment-option",
+      "changeType": "החלטת סדר יום סופית חדשה",
+      "changedAt": "2026-02-02",
+      "standard": "IFRS 9",
+      "topicTitleEn": "Embedded Prepayment Option",
+      "topicTitleHe": "אופציית פירעון מוקדם מובנית",
+      "status": "החלטת סדר יום סופית",
+      "needsReview": false,
+      "changeNoteHe": "נוספה החלטת סדר יום סופית וקושר אליה נייר התגובות הקודם."
+    },
+    {
+      "id": "chg-2026-02-02-transaction-costs-final",
+      "itemId": "ifric-2025-11-ap5-transaction-costs",
+      "changeType": "החלטת סדר יום סופית חדשה",
+      "changedAt": "2026-02-02",
+      "standard": "IFRS 9",
+      "topicTitleEn": "Determining and Accounting for Transaction Costs",
+      "topicTitleHe": "קביעת עלויות עסקה והטיפול בהן",
+      "status": "החלטת סדר יום סופית",
+      "needsReview": false,
+      "changeNoteHe": "נוספה החלטת סדר יום סופית וקושר אליה נייר תגובות קודם."
+    }
+  ]
+}
